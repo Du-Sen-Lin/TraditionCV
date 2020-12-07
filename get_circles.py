@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 from get_color_replace import ColorReplace
 
 __all__ = ['FindCircles']
-input_path = 'C:/wood/work/SEMW/SEMW_switch/dataset/dataset/data_test/module_101/side_crop/'
+input_path = ''
 out_path = ''
 
 

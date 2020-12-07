@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 import time
 
 __all__ = ['ColorReplace']
-input_path = 'C:/wood/work/SEMW/SEMW_switch/dataset/dataset/data_test/module_101/front_ok_test/'
+input_path = ''
 out_path = ''
 
 

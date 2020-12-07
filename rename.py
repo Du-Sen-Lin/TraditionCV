@@ -3,7 +3,7 @@ import os
 
 class BatchRename():
     def __init__(self):
-        self.path = 'C:/wood/work/SEMW/SEMW_switch/dataset/dataset/data_test/module_102/front_ng_test/'
+        self.path = ''
 
     def rename(self):
         filelist = os.listdir(self.path)
