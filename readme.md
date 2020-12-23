@@ -15,3 +15,11 @@ replace rect's color.
 ##### get_circles.py
 
 find circles in images under constraint.
+
+##### get_contours.py
+
+find circles in images by sobel and draw contours.
+
+##### get_thresh.py
+
+cv2.threshold summary.

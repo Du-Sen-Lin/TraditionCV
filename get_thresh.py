@@ -9,7 +9,7 @@ if __name__ == "__main__":
     img = cv2.imread(input_path + 'ng_6_re.jpg')
 
     # 二值化处理
-    # 返回 <class 'float'> 100.0 <class 'numpy.ndarray'> (398, 1190, 3)
+    # 返回 <class 'float'> 100.0 <class 'numpy.ndarray'> (h, w, c)
     # 超过阈值为maxval，否则为0
     ret, thresh1 = cv2.threshold(img,
                                  thresh=100,
